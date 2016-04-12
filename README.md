@@ -13,7 +13,7 @@ My first ZSH shell prompt.
 
 - different color themes (inkpot, solarized, monokai, dracula)
 - responsiv (3 line layout if not enough width)
-- lovely emojis make your day (
+- lovely emojis make your day
 - shows privileges
 - tells you if pwd is read-only
 - git infos (branchname, status, colored time since last commit)
